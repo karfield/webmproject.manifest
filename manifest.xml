@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="chromium"
+           fetch="https://git.chromium.org/git" />
+  <default revision="refs/heads/masters"
+           remote="chromium"
+           sync-j="4" />
+  <project path="webm/libvpx" name="webm/libvpx" />
+  <project path="webm/webmdshow" name="webm/webmdshow" />
+  <project path="webm/webmquicktime" name="webm/webmquicktime" />
+  <project path="webm/libwebm" name="webm/libwebm" />
+  <project path="webm/webminspector" name="webm/webminspector" />
+  <project path="webm/test-vectors" name="webm/vp8-test-vectors" />
+  <project path="webm/adaptive-manifest" name="webm/adaptive-manifest" />
+  <project path="webm/udpsample" name="webm/udpsample" />
+  <project path="webp/libwebp" name="webm/libwebp" />
+  <project path="webp/test-data" name="webm/libwebp-test-data" />
+  <project path="webp/wic-codec" name="webm/webp-wic-codec" />
+</manifest>

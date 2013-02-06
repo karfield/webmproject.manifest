@@ -11,7 +11,7 @@
   <project path="webm/libwebm" name="webm/libwebm" />
   <project path="webm/webminspector" name="webm/webminspector" />
   <project path="webm/test-vectors" name="webm/vp8-test-vectors" />
-  <project path="webm/adaptive-manifest" name="webm/adaptive-manifest" />
+  <project path="webm/adaptive-manifest" name="webm/adaptive-prototype-manifest" />
   <project path="webm/udpsample" name="webm/udpsample" />
   <project path="webp/libwebp" name="webm/libwebp" />
   <project path="webp/test-data" name="webm/libwebp-test-data" />
